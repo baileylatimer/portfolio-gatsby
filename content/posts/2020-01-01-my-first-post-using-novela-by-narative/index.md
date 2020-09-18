@@ -1,130 +1,163 @@
 ---
-title: My first post using Novela by Narative
+title: 'Building a winning brand, design system, and e-commerce experience.'
 author: Dennis Brotzky
-date: 2019-04-30
-hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+date: '2020-09-18'
+excerpt: >-
+  Helped the early-stage startup create a winning brand, design system, and
+  e-commerce experience to disrupt the outdoors market. Raised $2m+ via
+  crowdfunding and secured Series A funding in first 8 months.
+hero: images/Wash_Hands--Studio.jpg
 ---
+# Website
 
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+Client: GoSun
 
-## Headers
+Tags: Front-End Development, UX/UI Design 
 
-# H1
+Team: Bailey Latimer
+Tools used: Figma, VS Code, Hotjar, Git, Airtable
+Year: 2020
 
-It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
+- - -
 
-## H2
+**Overview**
 
-### H3
+**Description**
 
-#### H4
+> Helped the early-stage startup create a winning brand, design system, and e-commerce experience to disrupt the outdoors market. Raised $2m+ via crowdfunding and secured Series A funding in first 8 months.
 
-##### H5
+**KPIs**
 
-###### H6
+Conversion / +410%
 
-## Emphasis
+AOV / +34%
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
+Speed / 12s to 4s (mobile)
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+ SEO / #1 for multiple keywords
 
-Combined emphasis with **asterisks and _underscores_**.
+**What I did**
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+1. Owned user experience from discovery to deployment. Key focus: shopping & discovery, cross-selling, SEO optimization, landing pages, cart & checkout, naming.
+2. Developed a robust & scalable Shopify Plus theme.
 
-## Lists
+- - -
 
-1. First ordered list item
-2. Another item
-3. Actual numbers don't matter, just that it's a number
+* **Introduction**
 
-- Unordered list can use asterisks
+  - - -
 
-* Or minuses
+  ### **Who is GoSun?**
 
-- Or pluses
+    GoSun makes solar products for outdoor enthusiasts. To compete with new and rapidly-growing entrants in the outdoor recreation market, GoSun invited me to evolve and reinvent the brand & e-commerce experience for modern-day customers.
 
-## Links
+  Like many DTC brands of late, they grew a large following via crowdfunding campaigns on Kickstarter and Indiegogo. Once these campaigns ended, they struggled to keeping  momentum going on their own site.
 
-[I'm an inline-style link](https://www.google.com)
+  That's where I came in. 
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+  ![Mobile Mockup](images/Mobile_Mockup--cover.jpg "Mobile Mockup")
 
-[You can use numbers for reference-style link definitions][1]
 
-Or leave it empty and use the [link text itself].
 
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
+- - -
 
-Some text to show that the reference links can follow later.
+* **Discovery**
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+  - - -
 
-## Images
+  ### We've got work to do.
 
-<div className="Image__Small">
-  <img
-    src="./images/article-image-2.jpg"
-    title="Logo Title Text 1"
-    alt="Alt text"
-  />
-</div>
+    GoSun needed help with usability, visual consistancy, and information architecture. They had short “startup” deadlines and had experienced lackluster results from other design companies.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  * Inspiration
 
-## Code and Syntax Highlighting
+      [Inspo](https://www.notion.so/766dafe7f64f41ac9ff84ac786256782)
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+- - -
 
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
+* **Results**
 
-### JSX
+  - - -
 
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
+  * Home page
 
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
+    ## Home, sweet home.
 
-## Blockquotes
+    My goal for the homepage was to create a warm, inviting experience for our users. Users rely on the homepage figure out the type of site they are on, and rely on categories to decide if they should continue further. Previously, it lacked categories, so that was step 1.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.
+      \[image of hero section]
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+    * Mobile
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+        ![Website%200db88e37249a433c9328867502b8f0ea/Untitled.png](Website%200db88e37249a433c9328867502b8f0ea/Untitled.png)
+    * Desktop
 
-## Horizontal Rule
+        ![Website%200db88e37249a433c9328867502b8f0ea/Untitled%201.png](Website%200db88e37249a433c9328867502b8f0ea/Untitled%201.png)
+    * Original
 
-Horizontal Rule
+        ![Website%200db88e37249a433c9328867502b8f0ea/Untitled%202.png](Website%200db88e37249a433c9328867502b8f0ea/Untitled%202.png)
 
-Three or more...
+  - - -
 
----
+  * Product page
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+    ## All about conversion.
 
----
+      Before the redesign, users were overwhelmed with a cluttered interface. The CTA was unclear and below the fold on mobile. Using eye-tracking heatmaps and screen-recording software, I identified pain points and restructured the page accordingly.
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+    ## Pick a card, any card
+
+      For editors, I designed a flexible system of sections, storytelling components that let them tell each story in a way that fits it. Your design is only as good as it's **documented, approved, shared,** and followed by your team.
+
+    * Mobile
+
+        ![Website%200db88e37249a433c9328867502b8f0ea/Untitled%203.png](Website%200db88e37249a433c9328867502b8f0ea/Untitled%203.png)
+    * Desktop
+
+        ![Website%200db88e37249a433c9328867502b8f0ea/Untitled%204.png](Website%200db88e37249a433c9328867502b8f0ea/Untitled%204.png)
+
+  - - -
+
+  * Landing page
+
+    * Mobile
+    * Desktop
+
+  - - -
+
+  * Collection page
+
+    * Mobile
+    * Desktop
+  * Help Center
+
+    * Return center
+    * Order tracker
+    * FAQ
+    * Mobile
+    * Desktop
+
+      Reduced customer service calls by 50%
+
+- - -
+
+* **Impact**
+
+  ## It's working
+
+    After the redesign, users spend more time with the app, read more articles, and are much more likely to return within a week.
+
+  * KPIs
+
+      Conversion / +410%
+
+      AOV / +34%
+
+      Speed / 12s to 4s (mobile)
+
+      SEO / #1 for multiple keywords
+  * Testimonials
+
+- - -
