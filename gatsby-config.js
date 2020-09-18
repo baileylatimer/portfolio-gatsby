@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Latimer Design`,
+    name: `Bailey Latimer`,
     siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `Latimer Design is a branding and web development company based in Cincinnati. Fiercely committed to differentiation and success, we build brands for startups that are challenging what is and creating what's next.`,
     hero: {
-      heading: `Bailey is a designer who codes.`,
+      heading: `I'm Bailey 👋 <br> A UI/UX and Product Designer in Cincinnati.`,
       maxWidth: 652,
     },
     social: [
