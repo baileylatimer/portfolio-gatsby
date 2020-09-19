@@ -58,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Bailey Latimer`,
+        short_name: `Bailey`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
