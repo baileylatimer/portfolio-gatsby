@@ -1,7 +1,7 @@
 name: Dennis Brotzky
 bio: I enjoy making complicated things simple and boring things fun.
 featured: true
-avatar: avatars/BaileyLatimer_Train--min.jpg
+avatar: ./avatars/thiago-costa.png
 social:
   - url: 'https://unsplash.com'
   - url: 'https://stackoverflow.com'
