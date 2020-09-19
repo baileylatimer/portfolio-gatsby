@@ -1,10 +1,10 @@
 name: Dennis Brotzky
-bio: I enjoy making complicated things simple and boring things fun.
+bio: |
+  Written by Dennis Brotzky who lives and works in Vancouver building useful things.
+  You should follow him on Twitter.
+avatar: ./avatars/brotzky-avatar.jpg
 featured: true
-avatar: ./avatars/thiago-costa.png
 social:
-  - url: 'https://unsplash.com'
-  - url: 'https://stackoverflow.com'
-  - url: 'https://github.com'
-  - url: 'https://github.com'
-  - url: 'https://github.com'
+  - url: https://unsplash.com
+  - url: https://stackoverflow.com
+  - url: https://github.com
