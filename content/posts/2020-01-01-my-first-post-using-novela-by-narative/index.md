@@ -1,6 +1,6 @@
 ---
 title: 'Building a winning brand, design system, and e-commerce experience.'
-author: Dennis Brotzky
+author: Bailey Latimer
 date: '2020-09-18'
 excerpt: >-
   Helped the early-stage startup create a winning brand, design system, and
