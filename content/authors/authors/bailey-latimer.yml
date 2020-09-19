@@ -2,6 +2,7 @@ name: Bailey Latimer
 bio: |
   I enjoy working with mid-sized DTC startups to build product design systems that scale.
 avatar: ./avatars/05_Darker.jpg
+featured: true
 social:
   - url: https://twitter.com/latimer2k
   - url: https://github.com/baileylatimer
